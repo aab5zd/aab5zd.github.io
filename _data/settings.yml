@@ -44,9 +44,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Hi, my name is Angela. I am a data scientist with a passion for problem solving.
-My commitment lies in leveraging data to extract valuable insights and address practical challenges
-Learn more about my expierence below.
+blurb: Hi, my name is Angela. I am a data scientist with a passion for problem solving. My commitment lies in leveraging data to extract valuable insights and address practical challenges. Learn more about my expierence below.
 
 blurb-btn-link: "/about"
 blurb-btn-name: Find Out More
