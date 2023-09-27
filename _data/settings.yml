@@ -2,7 +2,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Home
+title: Angela Boakye Danquah
 logo:
 author: Angela Boakye Danquah
 description: Angela Boakye Danquah's Porfolio Website
@@ -37,10 +37,8 @@ hero:
   hero-title: Hi! I’m <br> Angela <br> Data Scientist
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/angela-boakye-danquah-a28694194/" }
+  - { icon: "ti-github", link: "https://github.com/aab5zd" }
 
 #-------------------------------
 # About (Section and Page)
@@ -68,18 +66,18 @@ work-process:
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 # My Team Section
-team:
-  - title: "Jack Schenziwe"
-    image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
+#team:
+ # - title: "Jack Schenziwe"
+  #  image: "assets/images/team/member-1.png"
+   # designation: "Project Manager"
 
-  - title: "Julias Carlie"
-    image: "assets/images/team/member-2.png"
-    designation: "Web Developer"
+  #- title: "Julias Carlie"
+   # image: "assets/images/team/member-2.png"
+    #designation: "Web Developer"
 
-  - title: "John Doe"
-    image: "assets/images/team/member-3.png"
-    designation: "Designer"
+  #- title: "John Doe"
+   # image: "assets/images/team/member-3.png"
+    #designation: "Designer"
 
 #-------------------------------
 # Skills Section
