@@ -158,70 +158,41 @@ education:
 
 # Portfolio Home Section
 portfolio-home-items:
+  - image: "assets/images/portfolio/item-3.png"
+    url: "https://aab5zd.github.io/Using%20Inferential%20Methods%20to%20Find%20a%20Link%20Between%20the%20Opioid%20Epidemic%20and%20White%20Supremacist%20Domestic%20Terrorism.pdf" 
+  
   - image: "assets/images/portfolio/item-1.png"
     url: "https://aab5zd.github.io/Collaborative%20Topic%20Modeling.pdf"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "https://aab5zd.github.io/DL%20Genre%20Categorization.pdf"
 
-  - image: "assets/images/portfolio/item-3.png"
-    url: "https://aab5zd.github.io/Using%20Inferential%20Methods%20to%20Find%20a%20Link%20Between%20the%20Opioid%20Epidemic%20and%20White%20Supremacist%20Domestic%20Terrorism.pdf"
+ 
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "Music", type: "music" }
+  - { title: "Deep Learning", type: "dl" }
+  - { title: "Other", type: "other" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://aab5zd.github.io/Using%20Inferential%20Methods%20to%20Find%20a%20Link%20Between%20the%20Opioid%20Epidemic%20and%20White%20Supremacist%20Domestic%20Terrorism.pdf"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
+      - type: "other"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "https://aab5zd.github.io/Collaborative%20Topic%20Modeling.pdf"
     portfolio-type:
-      - type: "branding"
+      - type: "music"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "#"
+    url: "https://aab5zd.github.io/DL%20Genre%20Categorization.pdf"
     portfolio-type:
-      - type: "illustration"
+      - type: "music"
+      - type: "dl"
 
-  - image: "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
 
-  - image: "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
 
 #-------------------------------
 # Testimonials Section
