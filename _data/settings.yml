@@ -159,19 +159,13 @@ education:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://aab5zd.github.io/Collaborative%20Topic%20Modeling.pdf"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "https://aab5zd.github.io/DL%20Genre%20Categorization.pdf"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-
-  - image: "assets/images/portfolio/item-4.png"
-    url: "#"
-
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
+    url: "https://aab5zd.github.io/Using%20Inferential%20Methods%20to%20Find%20a%20Link%20Between%20the%20Opioid%20Epidemic%20and%20White%20Supremacist%20Domestic%20Terrorism.pdf"
 
 # Portfolio Page
 portfolio-label:
