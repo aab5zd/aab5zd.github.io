@@ -50,9 +50,9 @@ blurb-btn-name: Find Out More
 
 # About Page
 
-## Work Process Section
-##work-process:
-  ##- title: "Research and Plan"
+# Work Process Section
+#work-process:
+  #- title: "Research and Plan"
     #icon: "assets/images/icons/plan.png"
     #content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
@@ -158,15 +158,15 @@ education:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - name: Using Inferential Methods to Find a Link between the Opioid Epidemic and White Supremacist Domestic Terrorism
+  - name: "Using Inferential Methods to Find a Link between the Opioid Epidemic and White Supremacist Domestic Terrorism"
     image: "assets/images/portfolio/opioid.png"
     url: "https://aab5zd.github.io/Using%20Inferential%20Methods%20to%20Find%20a%20Link%20Between%20the%20Opioid%20Epidemic%20and%20White%20Supremacist%20Domestic%20Terrorism.pdf" 
   
-  - name: Music Recommendation: Collaborative Topic Modeling
+  - name: "Music Recommendation: Collaborative Topic Modeling"
     image: "assets/images/portfolio/recommender.jpg"
     url: "https://aab5zd.github.io/Collaborative%20Topic%20Modeling.pdf"
 
-  - name: Music Genre Categorization with Spectograms 
+  - name: "Music Genre Categorization with Spectograms" 
     image: "assets/images/portfolio/genre.jpg"
     url: "https://aab5zd.github.io/DL%20Genre%20Categorization.pdf"
 
@@ -179,19 +179,19 @@ portfolio-label:
   - { title: "Other", type: "other" }
 
 portfolio-items:
-  - name: Using Inferential Methods to Explore the Link Between the Opioid Epidemic and White Supremacist Domestic Terrorism
+  - name: "Using Inferential Methods to Explore the Link Between the Opioid Epidemic and White Supremacist Domestic Terrorism"
     image: "assets/images/portfolio/opioid.png"
     url: "https://aab5zd.github.io/Using%20Inferential%20Methods%20to%20Find%20a%20Link%20Between%20the%20Opioid%20Epidemic%20and%20White%20Supremacist%20Domestic%20Terrorism.pdf"
     portfolio-type:
       - type: "other"
 
-  - name: Music Recommendation: Collaborative Topic Modeling
+  - name: "Music Recommendation: Collaborative Topic Modeling"
     image: "assets/images/portfolio/genre.jpg"
     url: "https://aab5zd.github.io/Collaborative%20Topic%20Modeling.pdf"
     portfolio-type:
       - type: "music"
 
-  - name: Music Genre Categorization with Spectograms 
+  - name: "Music Genre Categorization with Spectograms" 
     image: "assets/images/portfolio/recommender.jpg"
     url: "https://aab5zd.github.io/DL%20Genre%20Categorization.pdf"
     portfolio-type:
