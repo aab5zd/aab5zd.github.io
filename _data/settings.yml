@@ -1,5 +1,5 @@
 ---
-#-------------------------------
+-------------------------------
 # General Site Settings
 
 title: Angela Boakye Danquah
@@ -14,7 +14,7 @@ menu:
   - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
-#-------------------------------
+-------------------------------
 # Google Analytics Section
 
 # Analytics helps you understand who visits your website.
@@ -24,12 +24,12 @@ menu:
 
 google-analytics: # UA-XXXXXX-X
 
-#-------------------------------
+-------------------------------
 # Comment Section (Disqus)
 
 disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
-#-------------------------------
+-------------------------------
 # Hero Section
 
 hero:
@@ -39,7 +39,7 @@ social:
   - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/angela-boakye-danquah-a28694194/" }
   - { icon: "ti-github", link: "https://github.com/aab5zd" }
 
-#-------------------------------
+-------------------------------
 # About (Section and Page)
 
 # About Section
@@ -88,30 +88,10 @@ skills:
   - { name: Data Engineering, color: "#bdecf6", value: "60%" }
   - { name: Storytelling, color: "#ffbcaa", value: "90%" }
 
-#-------------------------------
+-------------------------------
 # Exprerience Section
 
 #experience-title: Experience
-#experience:
- # - {
-  #    name: Junior UX Designer,
-   #   icon: "icon-1.png",
-    #  date: "Jan 2007 - Feb 2009",
-     # organization: "WEBEX",
-    #}
-  #- {
-   #   name: UX & UI Designer,
-    #  icon: "icon-2.png",
-     # date: "Mar 2009 - Aug 2014",
-    #  organization: "AUGMEDIX",
-   # }
- # - {
-  #    name: Senior UI Designer,
-   #   icon: "icon-3.png",
-    #  date: "Sep 2014 - Present",
-     # organization: "THEMEFISHER",
-   # }
-
 #-------------------------------
 # Education Section
 
