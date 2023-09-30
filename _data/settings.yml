@@ -1,21 +1,19 @@
 ---
 #-------------------------------
-# General Site Settings
 
 title: Angela Boakye Danquah
 logo:
 author: Angela Boakye Danquah
 description: Angela Boakye Danquah's Porfolio Website
 email: aab5zd@virginia.edu
-copyright: Copyright &copy; [Angela Boakye Danquah](aab5zd.github.io)
-
+copyright: Copyright &copy; 2023 Angela Boakye Danquah
 menu:
   - { name: About, link: "/about" }
+  - { name: Resume,link: "/resume"}
   - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
-# Google Analytics Section
 
 # Analytics helps you understand who visits your website.
 # Learn more at: http://support.google.com/analytics/answer/1008065
@@ -25,75 +23,36 @@ menu:
 google-analytics: # UA-XXXXXX-X
 
 #-------------------------------
-# Comment Section (Disqus)
 
 disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 #-------------------------------
-# Hero Section
 
 hero:
-  hero-title: Hi! I'm <br> Angela, <br> Data Scientist
+  hero-title: Hi! I’m <br> Angela <br> Data Scientist
 
 social:
   - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/angela-boakye-danquah-a28694194/" }
   - { icon: "ti-github", link: "https://github.com/aab5zd" }
 
 #-------------------------------
-# About (Section and Page)
 
-# About Section
 blurb: Hi, my name is Angela. I am a data scientist with a passion for problem solving. My commitment lies in leveraging data to extract valuable insights and address practical challenges. Learn more about my expierence below.
 
 blurb-btn-link: "/about"
 blurb-btn-name: Find Out More
 
-# About Page
-
-# Work Process Section
-#work-process:
-  #- title: "Research and Plan"
-    #icon: "assets/images/icons/plan.png"
-    #content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
- # - title: "Design and Develop"
-  #  icon: "assets/images/icons/design.png"
-   # content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
- # - title: "Deliver"
-  #  icon: "assets/images/icons/print.png"
-   # content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-# My Team Section
-#team:
- # - title: "Jack Schenziwe"
-  #  image: "assets/images/team/member-1.png"
-   # designation: "Project Manager"
-
-  #- title: "Julias Carlie"
-   # image: "assets/images/team/member-2.png"
-    #designation: "Web Developer"
-
-  #- title: "John Doe"
-   # image: "assets/images/team/member-3.png"
-    #designation: "Designer"
 
 #-------------------------------
-# Skills Section
 
 skills-title: Skills
 skills:
-  - { name: Statistical Analysis, color: "#fdb157", value: "80%" }
+  - { name: Statistical Analysis and ML, color: "#fdb157", value: "80%" }
   - { name: Deep Learning, color: "#9473e6", value: "55%" }
   - { name: Data Engineering, color: "#bdecf6", value: "60%" }
   - { name: Storytelling, color: "#ffbcaa", value: "90%" }
 
 #-------------------------------
-# Exprerience Section
-
-#experience-title: Experience
-#-------------------------------
-# Education Section
 
 education-title: Education
 education:
@@ -107,105 +66,42 @@ education:
       date: "2021",
       organization: "University of Virginia",
     }
- 
 
 #-------------------------------
-# Services Section
 
-#services-title: Services
-#services:
- # - {
-  #    name: UI Design,
-  #    icon: ti-palette,
-  #    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna #aliqua.",
- #     active: ,# Add true to select section
-  #  }
-  #- {
-   #   name: UX Design,
-    #  icon: ti-vector,
-     # description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna #aliqua.",
- #     active: true, # Add true to select section
-  #  }
- # - {
-  #    name: Interaction Design,
-   #   icon: ti-panel,
-    #  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna #aliqua.",
- #     active: ,# Add true to select section
-  #  }
-
-#-------------------------------
-# Portfolio (Section and Page)
-
-# Portfolio Home Section
 portfolio-home-items:
-  - name: "Using Inferential Methods to Find a Link between the Opioid Epidemic and White Supremacist Domestic Terrorism"
-    image: "assets/images/portfolio/opioid.png"
-    url: "https://aab5zd.github.io/Using%20Inferential%20Methods%20to%20Find%20a%20Link%20Between%20the%20Opioid%20Epidemic%20and%20White%20Supremacist%20Domestic%20Terrorism.pdf" 
-  
-  - name: "Music Recommendation: Collaborative Topic Modeling"
-    image: "assets/images/portfolio/recommender.jpg"
+  - image: "assets/images/portfolio/opioid.png"
+    url: "https://aab5zd.github.io/Using%20Inferential%20Methods%20to%20Find%20a%20Link%20Between%20the%20Opioid%20Epidemic%20and%20White%20Supremacist%20Domestic%20Terrorism.pdf"
+
+  - image: "assets/images/portfolio/recommender.jpg"
     url: "https://aab5zd.github.io/Collaborative%20Topic%20Modeling.pdf"
 
-  - name: "Music Genre Categorization with Spectograms" 
-    image: "assets/images/portfolio/genre.jpg"
+  - image: "assets/images/portfolio/genre.jpg"
     url: "https://aab5zd.github.io/DL%20Genre%20Categorization.pdf"
 
- 
-
-# Portfolio Page
 portfolio-label:
   - { title: "Music", type: "music" }
   - { title: "Deep Learning", type: "dl" }
   - { title: "Other", type: "other" }
 
 portfolio-items:
-  - name: "Using Inferential Methods to Explore the Link Between the Opioid Epidemic and White Supremacist Domestic Terrorism"
-    image: "assets/images/portfolio/opioid.png"
+  - image: "assets/images/portfolio/opioid.png"
     url: "https://aab5zd.github.io/Using%20Inferential%20Methods%20to%20Find%20a%20Link%20Between%20the%20Opioid%20Epidemic%20and%20White%20Supremacist%20Domestic%20Terrorism.pdf"
     portfolio-type:
       - type: "other"
 
-  - name: "Music Recommendation: Collaborative Topic Modeling"
-    image: "assets/images/portfolio/genre.jpg"
+  - image: "assets/images/portfolio/genre.jpg"
     url: "https://aab5zd.github.io/Collaborative%20Topic%20Modeling.pdf"
     portfolio-type:
       - type: "music"
 
-  - name: "Music Genre Categorization with Spectograms" 
-    image: "assets/images/portfolio/recommender.jpg"
+  - image: "assets/images/portfolio/recommender.jpg"
     url: "https://aab5zd.github.io/DL%20Genre%20Categorization.pdf"
     portfolio-type:
       - type: "music"
       - type: "dl"
 
-
-
 #-------------------------------
-#Testimonials Section
-
-#testimonial-items:
- #- name: "Jesica Gomez"
-    #image: "assets/images/testimonial/client-1.png"
-    #designation: "CEO, Funder"
-    #content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut #enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor #in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-#-------------------------------
-#Client Slider Section
-
-#client-slider-items:
- #- logo: "assets/images/clients-logo/client-logo-1.png"
-    #url: "#"
-
-#- logo: "assets/images/clients-logo/client-logo-2.png"
-   #url: "#"
-
-#  - logo: "assets/images/clients-logo/client-logo-3.png"
-     #url: "#"
-
-  
-
-#-------------------------------
-# Contact Section
 
 contact-title: Contact Info
 contact-email: aab5zd@virginia.edu
