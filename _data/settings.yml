@@ -46,11 +46,58 @@ blurb-btn-name: Find Out More
 #-------------------------------
 
 skills-title: Skills
-skills:
-  - { name: Statistical Analysis and ML, color: "#fdb157", value: "80%" }
-  - { name: Deep Learning, color: "#9473e6", value: "55%" }
-  - { name: Data Engineering, color: "#bdecf6", value: "60%" }
-  - { name: Storytelling, color: "#ffbcaa", value: "90%" }
+
+# Client Slider Section
+
+client-slider-items:
+  - logo: "assets/images/clients-logo/dask_logo.svg"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/Microsoft_Azure_Logo.svg"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/Rlogo.svg"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/word.svg"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/Hadoop_logo.svg"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/powerpoint.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/sql.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/python-logo.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/git-logo.svg"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/Apache_Spark_logo.svg"
+    url: "#"
+  
+  - logo: "assets/images/clients-logo/aws.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/excel.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/ibmcloud.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/PowerBI_scalable.svg"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/git-logo.svg"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/ibmcloud.png"
+    url: "#"
+
 
 #-------------------------------
 

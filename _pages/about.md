@@ -6,7 +6,7 @@ image: assets/images/about/author.jpg
 ---
 ### Bridging Data and Insight
 
-Hi, I'm Angela, an enthusiastic aspiring data scientist with a passion for turning raw data into meaningful insights. As an entry-level data scientist, I am on a journey to explore the vast and dynamic world of data, constantly honing my skills to extract valuable information from the numbers.
+Hi, I'm Angela, an enthusiastic aspiring data scientist with a passion for turning raw data into meaningful insights. As an entry-level data scientist, I am on a journey to explore the vast and dynamic world of data, constantly honing my skills to extract valuable information from numbers.
 
 #### Academic Background: A Journey from Economics to Data Science
 
@@ -21,15 +21,15 @@ During my undergraduate years, I had the privilege of interning with Radify Labs
 Eager to deepen my understanding, I continued my education in UVA's MS in Data Science program. Here, I delved into advanced topics such as Bayesian Machine Learning, Deep Learning, Advanced Quantitative Analysis, and Big Data Systems. Working on diverse projects with clients like MITRE and Hilton Hotels, I gained hands-on experience in completing end-to-end big data projects, utilizing the latest tools and cloud technologies.
 
 #### Skills
-- Data Cleaning and Preprocessing
-- Exploratory Data Analysis (EDA)
-- Machine Learning and Deep Learning Model Development
-- Distributed Computing
-- ETL Pipeline Development
-- Statistical Analysis
-- Data Visualization (Matplotlib, Seaborn, Tableau)
-- SQL and NoSQL Database Management
-- Python and R Programming
+* Data Cleaning and Preprocessing
+* Exploratory Data Analysis (EDA)
+* Machine Learning and Deep Learning Model Development
+* Distributed Computing
+* ETL Pipeline Development
+* Statistical Analysis
+* Data Visualization (Matplotlib, Seaborn, Tableau)
+* SQL and NoSQL Database Management
+* Python and R Programming
 
 #### Community Involvement: Advocating Diversity in Data Science
 
