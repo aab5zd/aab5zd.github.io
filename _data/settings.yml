@@ -29,7 +29,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 #-------------------------------
 
 hero:
-  hero-title: Hi! I’m <br> Angela <br> Data Scientist
+  hero-title: Hi! I’m <br> Angela, <br> Data Scientist
 
 social:
   - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/angela-boakye-danquah-a28694194/" }
@@ -37,7 +37,7 @@ social:
 
 #-------------------------------
 
-blurb: Hi, my name is Angela. I am a data scientist with a passion for problem solving. My commitment lies in leveraging data to extract valuable insights and address practical challenges. Learn more about my expierence below.
+blurb: Hi, my name is Angela. I am a data scientist with a passion for problem solving. My commitment lies in leveraging data to extract valuable insights and address practical challenges. Learn more about my experience below.
 
 blurb-btn-link: "/about"
 blurb-btn-name: Find Out More
