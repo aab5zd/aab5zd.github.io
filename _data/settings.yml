@@ -37,7 +37,7 @@ social:
 
 #-------------------------------
 
-blurb: Hi, my name is Angela. I am a data scientist with a passion for problem solving. My commitment lies in leveraging data to extract valuable insights and address practical challenges. Learn more about my experience below.
+blurb: Hi, I’m Angela — a data scientist specializing in large-scale data systems, applied machine learning, and analytical problem-solving. I’m passionate about turning complex datasets into meaningful insights and building robust, scalable solutions that support real-world decision-making. Learn more about my work below.
 
 blurb-btn-link: "/about"
 blurb-btn-name: Find Out More
@@ -50,53 +50,48 @@ skills-title: Skills
 # Client Slider Section
 
 client-slider-items:
-  - logo: "assets/images/clients-logo/dask_logo.svg"
+  - logo: "assets/images/clients-logo/aws.drawio.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/Microsoft_Azure_Logo.svg"
+  - logo: "assets/images/clients-logo/azurer.drawio.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/Rlogo.svg"
+  - logo: "assets/images/clients-logo/dask.drawio.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/word.svg"
+  - logo: "assets/images/clients-logo/excel.drawio.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/Hadoop_logo.svg"
+  - logo: "assets/images/clients-logo/git.drawio.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/powerpoint.png"
+  - logo: "assets/images/clients-logo/hadoop.drawio.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/sql.png"
+  - logo: "assets/images/clients-logo/powerbi.drawio.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/python-logo.png"
+  - logo: "assets/images/clients-logo/powerpoint.drawio.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/git-logo.svg"
+  - logo: "assets/images/clients-logo/python.drawio.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/Apache_Spark_logo.svg"
-    url: "#"
-  
-  - logo: "assets/images/clients-logo/aws.png"
+  - logo: "assets/images/clients-logo/r.drawio.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/excel.png"
+  - logo: "assets/images/clients-logo/spark.drawio.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/ibmcloud.png"
+  - logo: "assets/images/clients-logo/sql.drawio.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/PowerBI_scalable.svg"
+  - logo: "assets/images/clients-logo/tableau.drawio.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/git-logo.svg"
+  - logo: "assets/images/clients-logo/Untitled Diagram-word.drawio.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/ibmcloud.png"
-    url: "#"
 
 
 #-------------------------------
@@ -126,9 +121,16 @@ portfolio-home-items:
   - image: "assets/images/portfolio/genre.jpg"
     url: "https://aab5zd.github.io/DL%20Genre%20Categorization.pdf"
 
+  - image: "assets/images/portfolio/glaucoma.png"
+    url: "https://rc.virginia.edu/project/glaucoma/"
+
+  - image: "assets/images/portfolio/ercp.png"
+    url: "https://rc.virginia.edu/project/ercp/"
+
 portfolio-label:
   - { title: "Music", type: "music" }
   - { title: "Deep Learning", type: "dl" }
+  - { title: "Research Computing", type: "research" }
   - { title: "Other", type: "other" }
 
 portfolio-items:
@@ -148,7 +150,19 @@ portfolio-items:
       - type: "music"
       - type: "dl"
 
+  - image: "assets/images/portfolio/glaucoma.png"
+    url: "https://rc.virginia.edu/project/glaucoma/"
+    portfolio-type:
+      - type: "research"
+      - type: "dl"
+
+  - image: "assets/images/portfolio/ercp.png"
+    url: "https://rc.virginia.edu/project/ercp/"
+    portfolio-type:
+      - type: "research"
+
 #-------------------------------
 
+
 contact-title: Contact Info
-contact-email: aab5zd@virginia.edu
+contact-email: angela.bdanquah@gmail.com
